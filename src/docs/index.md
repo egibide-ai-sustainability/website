@@ -1,3 +1,3 @@
 # Inicio
 
-Documentación del proyecto AI & Sustainabilty.
+Documentación del proyecto.
