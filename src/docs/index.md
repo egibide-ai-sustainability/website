@@ -1,3 +1,3 @@
-# Website
+# Inicio
 
-Página web de ejemplo.
+Documentación del proyecto AI & Sustainabilty.
