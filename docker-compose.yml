@@ -1,0 +1,13 @@
+services:
+  mkdocs:
+    build:
+      context: ./docker/mkdocs
+      dockerfile: Dockerfile
+    container_name: mkdocs
+    volumes:
+      - ./src:/src
+      - ./site:/site
+    working_dir: /src
+    ports:
+      - "${PUERTO}:${PUERTO}"
+    command: mkdocs serve -a 0.0.0.0:${PUERTO} -t ${TEMA}
