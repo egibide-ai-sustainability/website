@@ -1,4 +1,9 @@
 site_name: AI & Sustainability
 
+nav:
+  - Inicio: index.md
+  - Categoría:
+      - Ejemplo: categoria/10_ejemplo.md
+
 markdown_extensions:
   - attr_list:
