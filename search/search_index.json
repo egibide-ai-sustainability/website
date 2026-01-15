@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Inicio","text":"<p>Documentaci\u00f3n del proyecto.</p>"},{"location":"categoria/10_ejemplo/","title":"Ejemplo","text":"<p>Esto es una p\u00e1gina de ejemplo.</p>"}]}
