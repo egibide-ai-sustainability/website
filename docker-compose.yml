@@ -10,4 +10,4 @@ services:
     working_dir: /src
     ports:
       - "${PUERTO}:${PUERTO}"
-    command: mkdocs serve -a 0.0.0.0:${PUERTO} -t ${TEMA}
+    command: mkdocs serve -a 0.0.0.0:${PUERTO}
